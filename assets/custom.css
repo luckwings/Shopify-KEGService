@@ -1,0 +1,265 @@
+html {
+  font-size: 16px !important;
+}
+
+body {
+  display: block;
+  margin: 0;
+  font-family: Open Sans, sans-serif !important;
+  font-family: var(--bs-body-font-family);
+  font-size: var(--bs-body-font-size);
+  font-weight: var(--bs-body-font-weight);
+  line-height: var(--bs-body-line-height);
+  color: var(--bs-body-color);
+  text-align: var(--bs-body-text-align);
+  background-color: var(--bs-body-bg);
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
+
+section {
+  display: block;
+  unicode-bidi: isolate;
+}
+
+section a {
+  text-decoration: none !important;
+}
+
+section#hero-section p.p-sub {
+  font-size: 1.4rem;
+  font-family: Open Sans, sans-serif;
+  color: #444;
+  line-height: 1.1;
+  font-weight: 600;
+  margin: 0 0 16px;
+}
+
+#header-section {
+  display: ruby-text;
+}
+
+#hero-section {
+  background-color: #0000;
+  border-color: #0000;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.hero-image {
+  background-image: url("https://cdn.shopify.com/s/files/1/1190/7174/files/hero-banner.jpg?v=1708930289");
+}
+
+.service-image {
+  background-image: url("https://cdn.shopify.com/s/files/1/1190/7174/files/overlayed-images.jpg?v=1708930289");
+}
+
+.star-image {
+  background-image: url("https://cdn.shopify.com/s/files/1/1190/7174/files/stars.png?v=1708916383");
+}
+
+/* tag - start */
+
+h1 {
+  font-family: Open Sans Condensed, sans-serif !important;
+  color: #102739;
+  font-style: normal;
+  line-height: 1.125;
+}
+
+p {
+  font-size: 1rem;
+  display: block;
+  font-size: 16px !important;
+  /* unicode-bidi: isolate; */
+}
+
+p.p {
+  color: #444;
+  line-height: 1.625;
+  margin-bottom: 1rem;
+  margin-top: 0;
+  /* font-size: 1rem !important; */
+}
+
+.container {
+  max-width: 1140px;
+  margin: auto;
+  width: -webkit-fill-available !important;
+}
+
+.container-fluid {
+  --bs-gutter-x: 1.5rem;
+  --bs-gutter-y: 0;
+  width: 100%;
+  padding-right: calc(var(--bs-gutter-x) * 0.5);
+  padding-left: calc(var(--bs-gutter-x) * 0.5);
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.row {
+  --bs-gutter-x: 1.5rem;
+  --bs-gutter-y: 0;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: calc(-1 * var(--bs-gutter-y));
+  margin-right: calc(-0.5 * var(--bs-gutter-x));
+  margin-left: calc(-0.5 * var(--bs-gutter-x));
+}
+
+.cta-btn {
+  font-size: 16px;
+  background-color: #102739;
+  color: white;
+  text-decoration: none;
+  height: max-content;
+  padding: 8px 18px;
+}
+
+.basic-button {
+  color: white;
+  background-color: #102739;
+  font-size: 16px;
+  font-family: Open Sans, sans-serif;
+  font-weight: 700;
+  padding: 14px 24px;
+  min-height: 48px;
+  min-width: 96px;
+}
+
+.text-end {
+  text-align: right !important;
+}
+
+.text-uppercase {
+  text-transform: uppercase !important;
+}
+
+.text-wrap {
+  white-space: normal !important;
+}
+
+.fw-bold {
+  font-weight: 700;
+}
+
+.fs {
+  font-size: calc(1.275rem + 0.3vw) !important;
+}
+
+.fs-4 {
+  font-size: 1.5rem !important;
+}
+
+.open-sans-condensed {
+  font-family: Open Sans Condensed, sans-serif !important;
+}
+
+.align-items-center {
+  align-items: center !important;
+}
+
+.justify-content-end {
+  justify-content: flex-end !important;
+}
+
+.d-flex {
+  display: flex !important;
+}
+
+.d-block {
+  display: block;
+}
+
+.flex-colume {
+  flex-direction: column !important;
+}
+
+.p-static {
+  position: static !important;
+}
+
+.p-absolute {
+  position: absolute !important;
+}
+
+
+/* colume - start */
+
+.col-md-5 {
+  flex: 0 0 auto;
+  width: 41.66666666%;
+}
+
+.col-md-6 {
+  width: 50%;
+}
+
+.col-6 {
+  flex: 0 0 auto;
+  width: 50%;
+}
+
+.col-md-7 {
+  flex: 0 0 auto;
+  width: 58.33333333%;
+}
+
+/* colume - end */
+
+/* gap - start */
+
+.gap-4 {
+  gap: 1.5rem !important;
+}
+
+/* gap - end */
+
+
+/* padding - start */
+
+.px-4 {
+  padding-right: 1.5rem !important;
+  padding-left: 1.5rem !important;
+}
+
+.py-3 {
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
+
+.py-4 {
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
+}
+
+.py-5 {
+  padding-top: 3rem !important;
+  padding-bottom: 3rem !important;
+}
+
+/* padding - end */
+
+
+/* margin - start */
+
+.m-0 {
+  margin: 0;
+}
+
+.mx-auto {
+  margin-right: auto !important;
+  margin-left: auto !important;
+}
+
+.mb-2 {
+  margin-bottom: 0.5rem !important;
+}
+
+.mt-2 {
+  margin-top: 0.5rem !important;
+}
+
+/* margin - end */

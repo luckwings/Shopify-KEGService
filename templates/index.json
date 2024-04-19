@@ -1,0 +1,806 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Browse our latest products",
+            "heading_size": "h0"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_overlay_opacity": 40,
+        "image_height": "large",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    // "image_with_text_7yfyyH": {
+    //   "type": "image-with-text",
+    //   "blocks": {
+    //     "heading_6iWEXz": {
+    //       "type": "heading",
+    //       "settings": {
+    //         "heading": "FULL SERVICE CATERING & MOBILE DRINKS SERVICE",
+    //         "heading_size": "h1"
+    //       }
+    //     },
+    //     "text_hmirx8": {
+    //       "type": "text",
+    //       "settings": {
+    //         "text": "<p>Whether you're holding a corporate gathering or private celebration, make sure your private party is a success by leaving the service to us.<\/p>",
+    //         "text_style": "body"
+    //       }
+    //     },
+    //     "button_GJHYTJ": {
+    //       "type": "button",
+    //       "settings": {
+    //         "button_label": "REQUEST A QUOTE",
+    //         "button_link": "https:\/\/www.kegsonlegs.com.au\/pages\/private-event-lp#contact-us",
+    //         "button_style_secondary": false
+    //       }
+    //     }
+    //   },
+    //   "block_order": [
+    //     "heading_6iWEXz",
+    //     "text_hmirx8",
+    //     "button_GJHYTJ"
+    //   ],
+    //   "settings": {
+    //     "image": "shopify:\/\/shop_images\/overlayed-images.jpg",
+    //     "height": "adapt",
+    //     "desktop_image_width": "medium",
+    //     "layout": "text_first",
+    //     "desktop_content_position": "top",
+    //     "desktop_content_alignment": "left",
+    //     "content_layout": "no-overlap",
+    //     "section_color_scheme": "",
+    //     "color_scheme": "",
+    //     "image_behavior": "none",
+    //     "mobile_content_alignment": "left",
+    //     "padding_top": 36,
+    //     "padding_bottom": 36
+    //   }
+    // },
+    "multicolumn_3BEQbV": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_TKkKk7": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>CELEBRATE WITH US!<\/strong>",
+            "text": "<p>Plan your next event in style with full catering and a mobile bar. Weddings, birthdays, corporate events? We’ve got you covered.<\/p><p>If your specific occasion isn't listed here, just reach out and we’d be more than happy to steer any celebration into a great experience.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GipegW": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<ul><li>Corporate Events<\/li><li>Engagements<\/li><li>Birthday Parties<\/li><li>Wedding<\/li><li>Festivals<\/li><li>Hens Parties<\/li><li>Bucks Parties<\/li><li>Special Occasions<\/li><li>Graduations<\/li><li>Awards Nights<\/li><li>Bridal Showers<\/li><li>Launch Parties<\/li><li>End of Year Celebrations<\/li><li>Funeral \/ Celebration of life<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_TKkKk7",
+        "column_GipegW"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_JCkPBw": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_VyNUqp": {
+          "type": "column",
+          "settings": {
+            "title": "LET'S CREATE AN UNFORGETTABLE EVENT",
+            "text": "<p>We have a mobile bar, stocked with your favourite drinks, manned by our expert bartenders who know how to shake up a good time. Avoid the stress of managing drinks and food for your party, we've got you covered with full service a catering experience<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JfM38a": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "REQUEST A QUOTE",
+            "link": "https:\/\/www.kegsonlegs.com.au\/pages\/private-event-lp#contact-us"
+          }
+        }
+      },
+      "block_order": [
+        "column_VyNUqp",
+        "column_JfM38a"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "https:\/\/www.kegsonlegs.com.au\/pages\/private-event-lp#contact-us",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_3Taqai": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_bJEkQn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Mg34Ga": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cocktails-1.jpg",
+            "title": "<strong>COMPLETE MOBILE BAR<\/strong>",
+            "text": "<p>Our fully serviced mobile bar has you covered. From craft beer to signature cocktails you and your guests can sit back and enjoy.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_4dqhYT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/catering-platter.jpg",
+            "title": "<strong>LICENSED BARTENDERS AND SERVING STAFF<\/strong>",
+            "text": "<p>With our bartenders and serving staff, your event is not just in good hands, they're in the hands of licensed professionals with current RSA’s and years of experience.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_nRcLnn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cocktails-2.jpg",
+            "title": "<strong>UNIQUE AND SUSTAINABLE PRODUCTS<\/strong>",
+            "text": "<p>We have worked to be 90% plastic free through offering beer in kegs, using plastic free products and biodegradable cutlery & drinkware.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DdNqB9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fine-dining.jpg",
+            "title": "<strong>WIDE SELECTION OF FOOD<\/strong>",
+            "text": "<p>We offer a wide range of food options. From finger food, grazing platters, BBQs or 3 course meals, we aim to satisfy you and your guests!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Mg34Ga",
+        "column_4dqhYT",
+        "column_nRcLnn",
+        "column_DdNqB9"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_WXeQWG": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_7UCUiy": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>BEER KEGS, COCKTAILS & EVERYTHING IN BETWEEN.<\/strong>",
+            "text": "<p>Since 2005, Kegs on Legs has been creating amazing memories for life's biggest moments. We're known as Australia's leading beverage caterer, we're experts in draught beer, we're passionate about delivering exceptional food & unique drink experiences.<\/p><p>Take your next event to the next level with Sydney's experts in mobile bar and catering!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_kyYrdt": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>WITH OUR MOBILE BAR, YOU CAN ENJOY:<\/strong>",
+            "text": "<ul><li>Craft Beer<\/li><li>Wine & Champagne<\/li><li>Spirit Bars<\/li><li>Signature Cocktails & mocktails<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_7UCUiy",
+        "column_kyYrdt"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "REQUEST A QUOTE",
+        "button_link": "https:\/\/www.kegsonlegs.com.au\/pages\/private-event-lp#contact-us",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_6KjbNF": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_xt3GzT": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>CELEBRATE WITH US!<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_Yx8dHQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>* START IMAGE<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_LQ4TCq": {
+          "type": "button",
+          "settings": {
+            "button_label": "ENQUIRE HERE ABOUT YOUR EVENT",
+            "button_link": "https:\/\/www.kegsonlegs.com.au\/pages\/private-event-lp#contact-us",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_xt3GzT",
+        "text_Yx8dHQ",
+        "button_LQ4TCq"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/p-banner.jpg",
+        "height": "small",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_LGqg8y": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_T9bk3t": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>KEGS ON LEGS EVENT PACKAGES<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_NjdewQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>All of our bar packages and add-ons are customisable based on the size of your party. All of our packages come with the same base amenities and allow you to customise your event with a wide variety of exciting extras.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_T9bk3t",
+        "text_NjdewQ"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_7V8CMb": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_kpNNRB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dinner-setting.jpg",
+            "title": "<strong>EATS PACKAGES<\/strong>",
+            "text": "<p>* STAR IMAGE<\/p><p>* BUTTON<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_aKVPgH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cocktails-3.jpg",
+            "title": "<strong>DRINKS PACKAGES<\/strong>",
+            "text": "<p>* STAR IMAGE<\/p><p>* BUTTON<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_kpNNRB",
+        "column_aKVPgH"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_Bekdwq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CMQVAD": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>HERE WHAT OUR HOSTS SAY ABOUT US! *****<\/strong>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_CMQVAD"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_wzBLhc": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_HftneL": {
+          "type": "column",
+          "settings": {
+            "title": "\"WE ABSOLUTELY LOVED THE SET UP OF THE BAR AND HOW CLASSY ALL THE DRINKS WERE PRESENTED.\"",
+            "text": "<p>- Daniella \/\/ Bellevue Hill<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3ftqWD": {
+          "type": "column",
+          "settings": {
+            "title": "\"A HUGE THANK YOU TO YOUR TEAM FOR MAKING SATURDAY NIGHT SUCH A SUCCESS – I’VE HAD GREAT FEEDBACK FROM SO MANY PEOPLE, SO I WAS STOKED WITH WHAT YOU PUT TOGETHER.\"",
+            "text": "<p>- Clair \/\/ McPherson Media Group<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_4XKeEH": {
+          "type": "column",
+          "settings": {
+            "title": "\"LAST FRIDAY WAS AMAZING!.. I TRULY COULD NOT FAULT ANYONE ON THE DAY AND I HAD MANY LAUGHS WITH THEM\"",
+            "text": "<p>- Mel \/\/ Ernst & Young<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_HftneL",
+        "column_3ftqWD",
+        "column_4XKeEH"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "contact_form_m6FDDr": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "CONTACT US",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_ic9PqW": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_TMxGML": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How does a consumption bar work?",
+            "icon": "none",
+            "row_content": "<p>Our consumption bars are great option if you have a strict budget, not sure exactly how many guests are attending, or you want guests to pay for their drinks or want to recover your event costs. We charge a service hire fee to cover our fixed costs such as staff & equipment, and a minimum spend which can be used as a pre paid bar tab or if your guests pay for their drinks we can reimburse you the minimum spend once it is reached.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_yW4gBz": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do unlimited bar services work?",
+            "icon": "none",
+            "row_content": "<p>Our unlimited bar service packages are fixed cost packages, great for budgeting as you know exactly what your event is going to cost you up front. This option works best for events that have a confirmed guest list as it is priced per person for every guest in attendance. Also great if you know your guests are going to drink!<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_jdiGzf": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I provide my own alcohol?",
+            "icon": "none",
+            "row_content": "<p>We do allow special items to be added our unlimited bar services only, if you have a nice bottle of wine, champagne or a high end scotch we can help serve this with our unlimited packages only, we may require extra equipment or mixers so further charges may apply.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_6FrDwj": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is set up and pack down included in my costs?",
+            "icon": "none",
+            "row_content": "<p>We include all bartenders in the package these start have an allowance of 2 hours for setup and 1 hour for pack down onto of the service duration required.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_GWdT9d": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I tailor my drinks package?",
+            "icon": "none",
+            "row_content": "<p>Our packages are just a guide to give you some ideas and what to generally provide guests at your event, our team can certainly tailor the packages or change products on request, further costs may apply.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_tgWDcq": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How far do you travel?",
+            "icon": "none",
+            "row_content": "<p>We travel generally up to 2 hours away from the CBD, this also depends on how long the event runs for so check with our team. .<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_TB6ypU": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I have less than 30 guests can you still cater for my event?",
+            "icon": "none",
+            "row_content": "<p>Yes, we do have options for all group sizes.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_qAeNin": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you do longer service durations?",
+            "icon": "none",
+            "row_content": "<p>Yes, we can tailor a package to match any duration no matter how long or short.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_K6JXeC": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you provide staff only?",
+            "icon": "none",
+            "row_content": "<p>We don't provide staff only but we do allow dry bar hire, this is where we provide the staff, equipment, glassware & planning and you can provide your own alcohol.<br\/><br\/>Speak with our team if you need these services.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_gJniYg": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do your services work?",
+            "icon": "none",
+            "row_content": "<p>Our experienced event sales team can put together a proposal for your event to match up to your budget or specific event requirements. If you are happy with our service proposal we can secure your date with a 30% deposit. We then start our planning for your event 1 month out from your event date.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_YgCnUe": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you charge more for weddings?",
+            "icon": "none",
+            "row_content": "<p>No, our team provide the best solution to match any event and all of our packages are priced the same no matter the event type. We do like to remind our couples that higher expectations i.e wanting cocktails or full tray service can add more cost to say beer & wine just served from the bar.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_4eVRTK": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I change the drinks in the package?",
+            "icon": "none",
+            "row_content": "<p>Yes, we can tailor our drinks packages.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_TMxGML",
+        "collapsible_row_yW4gBz",
+        "collapsible_row_jdiGzf",
+        "collapsible_row_6FrDwj",
+        "collapsible_row_GWdT9d",
+        "collapsible_row_tgWDcq",
+        "collapsible_row_TB6ypU",
+        "collapsible_row_qAeNin",
+        "collapsible_row_K6JXeC",
+        "collapsible_row_gJniYg",
+        "collapsible_row_YgCnUe",
+        "collapsible_row_4eVRTK"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "<strong>SOME OF THE MOST FREQUENTLY ASKED QUESTIONS<\/strong>",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_VGzkEY": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cocktails-4.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "multicolumn_yfdNbp": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_7q79Ta": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kegs-on-legs-logo-white.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rbiBhC": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>CONTACT US<\/strong>",
+            "text": "<p>P: <a href=\"tel:1300355347\">1300 355 347<\/a><\/p><p>E: Please use enquiry form above<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_BxeJYc": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>FOLLOW US<\/strong>",
+            "text": "<p>* f  * INSTA<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_7q79Ta",
+        "column_rbiBhC",
+        "column_BxeJYc"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-67225fd1-eb59-4a1e-bd63-ad09efd54836",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 60,
+        "padding_bottom": 68
+      }
+    },
+    "rich_text_kNgwF7": {
+      "type": "rich-text",
+      "blocks": {
+        "text_XJFEYP": {
+          "type": "text",
+          "settings": {
+            "text": "<p>© 2023 Kegs on Legs. All Rights Reserved.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_XJFEYP"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-e53efde6-51f2-4bac-b3e6-9dfeab6548af",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "featured_collection",
+    // "image_with_text_7yfyyH",
+    "multicolumn_3BEQbV",
+    "multicolumn_JCkPBw",
+    "featured_collection_3Taqai",
+    "multicolumn_bJEkQn",
+    "multicolumn_WXeQWG",
+    "image_with_text_6KjbNF",
+    "rich_text_LGqg8y",
+    "multicolumn_7V8CMb",
+    "rich_text_Bekdwq",
+    "multicolumn_wzBLhc",
+    "contact_form_m6FDDr",
+    "collapsible_content_ic9PqW",
+    "image_banner_VGzkEY",
+    "multicolumn_yfdNbp",
+    "rich_text_kNgwF7"
+  ]
+}
